@@ -9,4 +9,4 @@ echo "Enjoy learning shell scripting!"
 echo "Happy coding!"
 echo "Hello`, World! This is a simple shell script that demonstrates how to print messages to the console. You can modify this script to include more complex logic or additional functionality as needed.`"
 
-This is from remote repo updated by some other developer
+This is from remote repo updated by some other developer.
